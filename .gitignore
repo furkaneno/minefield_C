@@ -1,0 +1,18 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Dev-C++ files
+*.layout
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# VSCode
+.vscode/
